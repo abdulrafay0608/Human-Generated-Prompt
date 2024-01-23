@@ -1,7 +1,5 @@
 import React from "react";
 import Feed from "@components/Feed";
-import Loader from "@components/loader";
-import Image from "next/image";
 
 const Home = () => {
   return (
